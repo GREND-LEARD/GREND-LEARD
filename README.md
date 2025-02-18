@@ -55,3 +55,5 @@
 <img src="https://raw.githubusercontent.com/GREND-LEARD/GREND-LEARD/output/snake.svg" alt="Snake animation" />
 
 ###
+
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?Grendleard=317ind3revmntak4lp2n6c27tybq)](https://open.spotify.com/user/317ind3revmntak4lp2n6c27tybq)
