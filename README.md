@@ -1,287 +1,381 @@
 <!--
-🎨 PLANTILLA V3 - MINIMALISTA ELEGANTE 🎨
-Grend Leard - El Arte del Código Limpio
+🌙 PLANTILLA V4 - DARK MODE EXTREMO 🌙
+David Grend Leard - Maestro de las Sombras Digitales
 -->
 
 <div align="center">
 
-<!-- ELEGANT HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=%20Grend%20Leard&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=55&descAlign=50"/>
+<!-- ULTRA DARK HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,1,2&height=200&section=header&text=DAVID%20GREND%20LEARD&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SHADOW%20DEVELOPER%20%7C%20DARK%20MODE%20ARCHITECT&descAlignY=55&descAlign=50&fontAlign=50"/>
 
-<!-- ELEGANT TYPING EFFECT -->
+<!-- NEON TYPING EFFECT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Crafting+Digital+Experiences;Building+Scalable+Solutions;Passionate+About+Clean+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=BB86FC&center=true&vCenter=true&width=700&height=60&lines=🌙+Coding+in+the+Shadows;⚡+Full+Stack+Dark+Architect;🔥+Building+Digital+Nightmares;💜+Master+of+Dark+UIs;🚀+Night+Mode+Developer" alt="Typing SVG" />
 </a>
 
-<!-- SOCIAL BADGES -->
+<!-- DARK BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=flat-square&logo=target&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Lives-Dominican%20Republic-success?style=flat-square&logo=google-maps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Speaks-Spanish%20%26%20English-blue?style=flat-square&logo=google-translate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌙_Dark_Mode-Always_ON-blueviolet?style=for-the-badge&logo=moon&logoColor=white&labelColor=000000&color=BB86FC"/>
+  <img src="https://img.shields.io/badge/⚡_Power_Level-Over_9000-purple?style=for-the-badge&logo=lightning&logoColor=white&labelColor=000000&color=6C63FF"/>
+  <img src="https://img.shields.io/badge/🔥_Coding_Mode-Nocturnal-red?style=for-the-badge&logo=fire&logoColor=white&labelColor=000000&color=FF6B6B"/>
 </p>
 
+<!-- VISITOR COUNTER DARK -->
+<img src="https://komarev.com/ghpvc/?username=GREND-LEARD&label=SHADOW+VISITORS&color=blueviolet&style=for-the-badge&logo=github" alt="visitors"/>
+<img src="https://img.shields.io/github/followers/GREND-LEARD?logo=github&style=for-the-badge&color=6C63FF&labelColor=000000" alt="followers"/>
+
 </div>
 
 ---
 
-## 👋 **Acerca de Mí**
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 🌙 **SHADOW DEVELOPER PROFILE**
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  languages: string[];
-  currentFocus: string[];
-  hobbies: string[];
-  lifePhilosophy: string;
+```javascript
+class ShadowDeveloper {
+  constructor() {
+    this.name = "David Grend Leard";
+    this.mode = "🌙 Perpetual Dark Mode";
+    this.location = "🇩🇴 Dominican Republic";
+    this.timezone = "UTC-5 (Night Owl Zone)";
+    this.codingHours = "🦉 22:00 - 04:00";
+    this.favoriteTheme = "🖤 Dracula Pro";
+    this.energy = "☕ Coffee + 🌙 Moon Energy";
+  }
+
+  getSkills() {
+    return {
+      frontend: ["⚛️ React", "⚡ Next.js", "🟦 TypeScript", "🎨 Dark UIs"],
+      backend: ["🟢 Node.js", "🔥 NestJS", "🐍 Python", "⚡ Express"],
+      database: ["🐘 PostgreSQL", "🍃 MongoDB", "🔴 Redis"],
+      darkArts: ["🌙 Dark Theme Design", "⚡ Neon Effects", "🔮 Shadow DOM"]
+    };
+  }
+
+  executeNightShift() {
+    while (moon.isVisible()) {
+      this.code();
+      this.debug();
+      this.createDarkMagic();
+      this.drinkCoffee();
+    }
+  }
 }
 
-const david: Developer = {
-  name: "David",
-  role: "Full Stack Developer",
-  location: "Colombia",
-  languages: ["JavaScript", "TypeScript", "Python", "Spanish", "English"],
-  currentFocus: ["Next.js", "NestJS", "React", "PostgreSQL"],
-  hobbies: ["Gaming 🎮", "Chess ♟️", "Learning new tech"],
-  lifePhilosophy: "Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines."
-};
+const david = new ShadowDeveloper();
+david.executeNightShift();
 ```
 
-<br clear="both"/>
-
----
-
-## 🛠️ **Stack Tecnológico**
-
-<div align="center">
-
-### Frontend Arsenal 
-<div>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-</div>
-
-### Backend Powerhouse
-<div>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-</div>
-
-### Database & Cloud
-<div>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</div>
-
 </div>
 
 ---
 
-## 📈 **GitHub Analytics**
+## ⚡ **DARK TECH ARSENAL**
 
 <div align="center">
-  
+
+### 🌙 **Frontend Shadows**
 <table>
 <tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GREND-LEARD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd"/>
-
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="60"/>
+<br><sub><b>React</b></sub>
 </td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GREND-LEARD&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae"/>
-
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="60"/>
+<br><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="60"/>
+<br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="60"/>
+<br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="60"/>
+<br><sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="60"/>
+<br><sub><b>CSS</b></sub>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GREND-LEARD&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=70a5fd&fire=ffc777&currStreakLabel=38bdae" width="49%"/>
+### 🔥 **Backend Nightmares**
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="60"/>
+<br><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" width="60"/>
+<br><sub><b>NestJS</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="60"/>
+<br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="60"/>
+<br><sub><b>Express</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="60"/>
+<br><sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=django&theme=dark" width="60"/>
+<br><sub><b>Django</b></sub>
+</td>
+</tr>
+</table>
+
+### 🗄️ **Data Shadows**
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="60"/>
+<br><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="60"/>
+<br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="60"/>
+<br><sub><b>Redis</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="60"/>
+<br><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="60"/>
+<br><sub><b>SQLite</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=prisma&theme=dark" width="60"/>
+<br><sub><b>Prisma</b></sub>
+</td>
+</tr>
+</table>
+
+### 🛠️ **Dark DevOps**
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="60"/>
+<br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="60"/>
+<br><sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="60"/>
+<br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="60"/>
+<br><sub><b>AWS</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="60"/>
+<br><sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="60"/>
+<br><sub><b>Linux</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🏗️ **Mi Journey como Developer**
+## 📊 **SHADOW ANALYTICS**
 
 <div align="center">
 
-```mermaid
-timeline
-    title David's Development Journey
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=GREND-LEARD&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF&icon_color=BB86FC&ring_color=BB86FC" height="200"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GREND-LEARD&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF" height="200"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GREND-LEARD&theme=midnight-purple&hide_border=true&background=0D1117&stroke=BB86FC&ring=BB86FC&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="60%"/>
+
+</div>
+
+---
+
+## 🌙 **NIGHT SHIFT PROGRESS**
+
+<div align="center">
+
+```yaml
+🌙 Current Dark Projects:
+  🔮 Shadow Dashboard:
+    tech: [Next.js, NestJS, PostgreSQL]
+    theme: "Pure Dark Mode"
+    progress: "████████░░ 80%"
     
-    2022 : Started Programming
-         : Learned HTML, CSS, JS basics
-         
-    2023 : Frontend Focus
-         : Mastered React.js
-         : Started with Next.js
-         
-    2024 : Full Stack Evolution
-         : Backend with Node.js
-         : NestJS Framework
-         : Database Design
-         : Currently Building Amazing Projects
+  ⚡ Neon E-Commerce:
+    tech: [React, Express, MongoDB]
+    theme: "Cyberpunk Dark"
+    progress: "██████░░░░ 60%"
+    
+  🌙 Night Mode Portfolio:
+    tech: [TypeScript, Tailwind, Framer]
+    theme: "Elegant Dark"
+    progress: "███████░░░ 70%"
+
+🦉 Night Learning:
+  - Advanced Dark UI Patterns
+  - Neon Effect Animations
+  - Shadow DOM Manipulation
+  - Midnight Architecture
+
+⚡ 2024 Dark Goals:
+  - ✅ Master Dark Theme Design
+  - ⏳ Create 5 Dark Mode Apps
+  - ⏳ Dark UI Component Library
+  - ⏳ Midnight Productivity Tools
 ```
 
 </div>
 
 ---
 
-## 🎯 **Habilidades & Competencias**
+## 🎯 **SHADOW SKILLS MATRIX**
 
 <div align="center">
 
-| 🎨 Frontend | 🏗️ Backend | 🗄️ Database | ☁️ DevOps | 🧠 Soft Skills |
-|-------------|-------------|-------------|-----------|---------------|
-| React ⭐⭐⭐⭐⭐ | Node.js ⭐⭐⭐⭐⭐ | PostgreSQL ⭐⭐⭐⭐ | Docker ⭐⭐⭐ | Problem Solving ⭐⭐⭐⭐⭐ |
-| Next.js ⭐⭐⭐⭐ | NestJS ⭐⭐⭐⭐ | MongoDB ⭐⭐⭐⭐ | AWS ⭐⭐⭐ | Team Work ⭐⭐⭐⭐⭐ |
-| JavaScript ⭐⭐⭐⭐⭐ | Python ⭐⭐⭐⭐ | Redis ⭐⭐⭐ | Git ⭐⭐⭐⭐⭐ | Communication ⭐⭐⭐⭐ |
-| TypeScript ⭐⭐⭐⭐ | Express ⭐⭐⭐⭐⭐ | MySQL ⭐⭐⭐ | Linux ⭐⭐⭐⭐ | Adaptability ⭐⭐⭐⭐⭐ |
+| 🌙 **Dark Frontend** | ⚡ **Power** | 🔥 **Shadow Backend** | ⚡ **Power** | 🗄️ **Data Magic** | ⚡ **Power** |
+|---------------------|-------------|----------------------|-------------|-------------------|-------------|
+| React Dark UIs      | ████████████ 95% | Node.js APIs     | ████████████ 90% | PostgreSQL    | ████████████ 85% |
+| Next.js Themes      | ███████████░ 90% | NestJS Services  | ████████████ 85% | MongoDB       | ████████████ 80% |
+| TypeScript Magic    | ████████████ 88% | Python Scripts   | ████████████ 82% | Redis Cache   | ████████████ 75% |
+| Dark Animations     | ████████████ 85% | Express APIs     | ████████████ 88% | MySQL         | ████████████ 70% |
+| Neon Effects        | ████████████ 92% | API Architecture | ████████████ 80% | Prisma ORM    | ████████████ 78% |
 
 </div>
 
 ---
 
-## 🚀 **Proyectos Destacados**
+## 🏆 **DARK ACHIEVEMENTS**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GREND-LEARD&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
+</div>
+
+---
+
+## 🚀 **SHADOW REPOSITORIES**
 
 <div align="center">
 
-<!-- PROJECT CARDS -->
-<table>
-<tr>
-<td width="50%">
+[![Dark Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=GREND-LEARD&repo=carpinvel-sas&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF)](https://github.com/GREND-LEARD/carpinvel-sas)
+[![Dark Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=GREND-LEARD&repo=finanzas-app&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF)](https://github.com/GREND-LEARD/finanzas-app)
 
-### 🌟 E-Commerce Platform
-**Tech Stack:** Next.js, NestJS, PostgreSQL, Redis
-- 🛒 Complete shopping experience
-- 💳 Payment gateway integration  
-- 📱 Responsive design
-- ⚡ Real-time notifications
-
-[![Repo](https://img.shields.io/badge/View_Code-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GREND-LEARD/ecommerce-project)
-
-</td>
-<td width="50%">
-
-### 🎯 Task Management App
-**Tech Stack:** React, Express, MongoDB, Socket.io
-- ✅ Real-time collaboration
-- 📊 Progress tracking
-- 🔔 Smart notifications
-- 🎨 Beautiful UI/UX
-
-[![Repo](https://img.shields.io/badge/View_Code-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GREND-LEARD/task-manager)
-
-</td>
-</tr>
-</table>
+[![Dark Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=GREND-LEARD&repo=Juego-APP&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF)](https://github.com/GREND-LEARD/Juego-APP)
+[![Dark Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=GREND-LEARD&repo=CODES-PY&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF)](https://github.com/GREND-LEARD/CODES-PY)
 
 </div>
 
 ---
 
-## 📊 **Este Mes en Números**
+## 📈 **MIDNIGHT ACTIVITY**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GREND-LEARD&custom_title=🌙%20SHADOW%20DEVELOPMENT%20ACTIVITY&bg_color=0d1117&color=BB86FC&line=BB86FC&point=ffffff&area_color=BB86FC&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🌐 **CONNECT IN THE SHADOWS**
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/☕_Coffees-127-brown?style=for-the-badge&logoColor=white"/>
-<br>
-<sub><b>Fuel para programar</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🎯_Commits-89-green?style=for-the-badge&logoColor=white"/>
-<br>
-<sub><b>Líneas de código</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📚_Learning-NestJS-blue?style=for-the-badge&logoColor=white"/>
-<br>
-<sub><b>Nueva tecnología</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🎮_Gaming-4h-purple?style=for-the-badge&logoColor=white"/>
-<br>
-<sub><b>Tiempo de descanso</b></sub>
-</td>
-</tr>
-</table>
+[![Email](https://img.shields.io/badge/📧_Email-0D1117?style=for-the-badge&logo=gmail&logoColor=BB86FC&labelColor=000000&color=BB86FC)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=BB86FC&labelColor=000000&color=6C63FF)](https://linkedin.com/in/tu-linkedin)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=BB86FC&labelColor=000000&color=BB86FC)](https://twitter.com/tu-twitter)
+[![Discord](https://img.shields.io/badge/🎮_Discord-0D1117?style=for-the-badge&logo=discord&logoColor=BB86FC&labelColor=000000&color=6C63FF)](https://discord.gg/tu-discord)
+[![Portfolio](https://img.shields.io/badge/🌙_Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=BB86FC&labelColor=000000&color=FF6B6B)](https://tu-portfolio.com)
 
 </div>
 
 ---
 
-## 🌐 **Conecta Conmigo**
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-twitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://tu-portfolio.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tu-discord)
-
-</div>
-
----
-
-## 🎵 **Currently Vibing To**
+## 🎵 **CODING SOUNDTRACK**
 
 <div align="center">
   
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1a1b27&border_color=70a5fd)](https://open.spotify.com/user/tu-spotify)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=BB86FC)](https://open.spotify.com/user/tu-spotify)
+  
+  ### 🌙 **Current Nighttime Playlist**
+  ```
+  🎵 Now Playing: Synthwave / Dark Electronic
+  🎧 Mood: Nocturnal Coding Session
+  ⚡ Energy: Maximum Dark Power
+  ```
+  
+</div>
+
+---
+
+## 💭 **SHADOW WISDOM**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20the%20darkness%20of%20code,%20we%20find%20the%20light%20of%20solutions&author=David%20Grend%20Leard" />
+</div>
+
+---
+
+## 🌙 **NIGHT STATS**
+
+<div align="center">
+
+| 🌙 **Night Coding** | ☕ **Coffee Consumed** | 🔥 **Dark UIs Built** | ⚡ **Bugs Eliminated** |
+|-------------------|---------------------|-------------------|---------------------|
+| ![Night](https://img.shields.io/badge/Hours-120h-purple?style=for-the-badge&logo=moon&logoColor=white&labelColor=000000&color=BB86FC) | ![Coffee](https://img.shields.io/badge/Cups-89-brown?style=for-the-badge&logo=coffee&logoColor=white&labelColor=000000&color=8B4513) | ![UIs](https://img.shields.io/badge/Projects-15-blue?style=for-the-badge&logo=palette&logoColor=white&labelColor=000000&color=6C63FF) | ![Bugs](https://img.shields.io/badge/Fixed-247-green?style=for-the-badge&logo=bug&logoColor=white&labelColor=000000&color=00FF00) |
 
 </div>
 
 ---
 
-## 💭 **Quote del Día**
+## 🐍 **SHADOW SNAKE**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Shadow Snake eating my contributions"/>
 </div>
 
 ---
 
-## 🐍 **Contribution Snake**
-
+<!-- DARK FOOTER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,1,2&height=120&section=footer&animation=fadeIn"/>
 </div>
 
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GREND-LEARD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
-</div>
-
----
-
 <div align="center">
 
-### 💫 **"Code is like humor. When you have to explain it, it's bad."** 💫
+### 🌙 *"In darkness we code, in shadows we create, in the night we innovate"* 🌙
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-**🌟 ¡Gracias por visitar mi perfil! Si te gusta mi trabajo, dale una estrella ⭐**
+**⚡ Welcome to the Dark Side of Development ⚡**
 
-<img src="https://komarev.com/ghpvc/?username=GREND-LEARD&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=GREND-LEARD&label=Shadow%20Visits&color=blueviolet&style=flat-square" alt="Profile views"/>
 
 </div>
