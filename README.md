@@ -1,219 +1,287 @@
-<!-- 
-🌟 PLANTILLA V2 - FUTURISTA & MODERNA 🌟
-David Grend Leard - Desarrollador Full Stack Extraordinario
+<!--
+🎨 PLANTILLA V3 - MINIMALISTA ELEGANTE 🎨
+David Grend Leard - El Arte del Código Limpio
 -->
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=45&pause=1000&color=00F5FF&background=000000EE&center=true&vCenter=true&width=1000&height=100&lines=DAVID+GREND+LEARD;%3C%2F%3E+FULL+STACK+DEVELOPER+%3C%2F%3E;%F0%9F%9A%80+BUILDING+THE+FUTURE+%F0%9F%9A%80)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<!-- ELEGANT HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=David%20Grend%20Leard&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=55&descAlign=50"/>
 
-</div>
+<!-- ELEGANT TYPING EFFECT -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=22&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=50&lines=Crafting+Digital+Experiences;Building+Scalable+Solutions;Passionate+About+Clean+Code;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</a>
 
-<!-- CYBERPUNK STYLE HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,14,16,18,20&height=150&section=header&text=ENTER%20THE%20MATRIX&fontSize=30&fontColor=00ff41&animation=blinking&fontAlign=50&fontAlignY=45" width="100%"/>
-</div>
-
-<!-- VISITOR & GITHUB STATS BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GREND-LEARD&label=MATRIX+VISITORS&color=brightgreen&style=for-the-badge&logo=github" alt="visitors"/>
-  <img src="https://img.shields.io/github/followers/GREND-LEARD?logo=github&style=for-the-badge&color=brightgreen&labelColor=black" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/GREND-LEARD?logo=github&style=for-the-badge&color=yellow&labelColor=black" alt="stars"/>
+<!-- SOCIAL BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=flat-square&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lives-Dominican%20Republic-success?style=flat-square&logo=google-maps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Speaks-Spanish%20%26%20English-blue?style=flat-square&logo=google-translate&logoColor=white"/>
 </p>
 
-<!-- MATRIX CODE RAIN EFFECT -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 ---
 
-## 🌐 **SISTEMA OPERATIVO: DAVID.EXE**
+## 👋 **Acerca de Mí**
 
-```javascript
-const developer = {
-    name: "David Grend Leard",
-    location: "Matrix.exe",
-    role: "Full Stack Architect",
-    languages: ["Spanish", "English", "JavaScript", "Python", "Binary"],
-    currentMission: "Building the future, one commit at a time",
-    lifePhilosophy: "Code is poetry, bugs are just misunderstood features",
-    
-    executeDaily: function() {
-        while(alive) {
-            code();
-            debug();
-            learn();
-            coffee();
-            repeat();
-        }
-    }
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  languages: string[];
+  currentFocus: string[];
+  hobbies: string[];
+  lifePhilosophy: string;
+}
+
+const david: Developer = {
+  name: "David Grend Leard",
+  role: "Full Stack Developer",
+  location: "Dominican Republic 🇩🇴",
+  languages: ["JavaScript", "TypeScript", "Python", "Spanish", "English"],
+  currentFocus: ["Next.js", "NestJS", "React", "PostgreSQL"],
+  hobbies: ["Gaming 🎮", "Chess ♟️", "Learning new tech"],
+  lifePhilosophy: "Clean code is not written by following a set of rules. You don't become a software craftsman by learning a list of heuristics. Professionalism and craftsmanship come from values that drive disciplines."
 };
-
-developer.executeDaily();
 ```
 
+<br clear="both"/>
+
 ---
 
-## ⚡ **MATRIZ TECNOLÓGICA**
+## 🛠️ **Stack Tecnológico**
 
 <div align="center">
 
-### 🎯 **FRONTEND ARSENAL**
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,bootstrap,sass,figma&theme=dark" />
+### Frontend Arsenal 
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</div>
 
-### 🔥 **BACKEND POWERHOUSE**
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,express,fastapi,django&theme=dark" />
+### Backend Powerhouse
+<div>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</div>
 
-### 🗄️ **DATABASE MASTERY**
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,sqlite&theme=dark" />
-
-### 🛠️ **DEV TOOLS & CLOUD**
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,linux,nginx&theme=dark" />
+### Database & Cloud
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</div>
 
 </div>
 
-<!-- TECH STACK RADAR -->
+---
+
+## 📈 **GitHub Analytics**
+
 <div align="center">
-  <h3>🎯 MAPA DE HABILIDADES</h3>
   
-  | 💻 Frontend | ⚡ Level | 🔧 Backend | ⚡ Level | 🛢️ Database | ⚡ Level |
-  |-------------|----------|------------|----------|-------------|----------|
-  | React.js    | ████████ 90% | Node.js   | ████████ 85% | PostgreSQL | ████████ 80% |
-  | Next.js     | ███████░ 85% | NestJS    | ██████░░ 75% | MongoDB    | ███████░ 75% |
-  | JavaScript  | ████████ 95% | Python    | ███████░ 80% | MySQL      | ██████░░ 70% |
-  | TypeScript  | ███████░ 80% | Express   | ████████ 85% | Redis      | █████░░░ 65% |
-  | CSS/Tailwind| ████████ 90% | FastAPI   | ██████░░ 70% | SQLite     | ███████░ 75% |
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GREND-LEARD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=70a5fd"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GREND-LEARD&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=GREND-LEARD&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=70a5fd&fire=ffc777&currStreakLabel=38bdae" width="49%"/>
 
 </div>
 
 ---
 
-## 📊 **MATRIX ANALYTICS**
+## 🏗️ **Mi Journey como Developer**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GREND-LEARD&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GREND-LEARD&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GREND-LEARD&theme=neon-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak"/>
-</div>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GREND-LEARD&custom_title=🚀%20MATRIX%20ACTIVITY%20GRID&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🏆 **ACHIEVEMENT UNLOCKED**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GREND-LEARD&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
-</div>
-
----
-
-## 🎮 **CURRENT MISSIONS**
-
-```yaml
-🚀 Active Projects:
-  - name: "Secret Full Stack App"
-    tech: [Next.js, NestJS, PostgreSQL]
-    status: "In Development"
-    progress: "████████░░ 80%"
+```mermaid
+timeline
+    title David's Development Journey
     
-  - name: "AI-Powered Dashboard"
-    tech: [React, Python, FastAPI]
-    status: "Planning Phase"
-    progress: "███░░░░░░░ 30%"
-
-🌱 Learning Queue:
-  - Advanced NestJS Patterns
-  - Microservices Architecture
-  - AWS Cloud Solutions
-  - GraphQL with Apollo
-
-🎯 2024 Goals:
-  - ✅ Master NestJS Framework
-  - ⏳ Deploy 5 Full Stack Projects
-  - ⏳ Contribute to Open Source
-  - ⏳ Build AI-Integrated Apps
+    2022 : Started Programming
+         : Learned HTML, CSS, JS basics
+         
+    2023 : Frontend Focus
+         : Mastered React.js
+         : Started with Next.js
+         
+    2024 : Full Stack Evolution
+         : Backend with Node.js
+         : NestJS Framework
+         : Database Design
+         : Currently Building Amazing Projects
 ```
 
----
-
-## 🌐 **CONNECT TO THE NETWORK**
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:tu-correo@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/tu-linkedin)
-  [![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=00ff41)](https://twitter.com/tu-twitter)
-  [![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=00ff41)](https://discord.gg/tu-discord)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=00ff41)](https://tu-portfolio.com)
-
 </div>
 
 ---
 
-## 🎯 **FEATURED REPOSITORIES**
+## 🎯 **Habilidades & Competencias**
 
 <div align="center">
-  
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=GREND-LEARD&repo=amazing-project&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)](https://github.com/GREND-LEARD/amazing-project)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=GREND-LEARD&repo=another-project&theme=chartreuse-dark&hide_border=true&bg_color=0d1117)](https://github.com/GREND-LEARD/another-project)
+
+| 🎨 Frontend | 🏗️ Backend | 🗄️ Database | ☁️ DevOps | 🧠 Soft Skills |
+|-------------|-------------|-------------|-----------|---------------|
+| React ⭐⭐⭐⭐⭐ | Node.js ⭐⭐⭐⭐⭐ | PostgreSQL ⭐⭐⭐⭐ | Docker ⭐⭐⭐ | Problem Solving ⭐⭐⭐⭐⭐ |
+| Next.js ⭐⭐⭐⭐ | NestJS ⭐⭐⭐⭐ | MongoDB ⭐⭐⭐⭐ | AWS ⭐⭐⭐ | Team Work ⭐⭐⭐⭐⭐ |
+| JavaScript ⭐⭐⭐⭐⭐ | Python ⭐⭐⭐⭐ | Redis ⭐⭐⭐ | Git ⭐⭐⭐⭐⭐ | Communication ⭐⭐⭐⭐ |
+| TypeScript ⭐⭐⭐⭐ | Express ⭐⭐⭐⭐⭐ | MySQL ⭐⭐⭐ | Linux ⭐⭐⭐⭐ | Adaptability ⭐⭐⭐⭐⭐ |
 
 </div>
 
 ---
 
-## 💭 **RANDOM DEV THOUGHTS**
+## 🚀 **Proyectos Destacados**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
-</div>
 
-<!-- SNAKE EATING CONTRIBUTIONS -->
-<div align="center">
-  <h3>🐍 CONTRIBUTION SNAKE</h3>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating my contributions"/>
+<!-- PROJECT CARDS -->
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 E-Commerce Platform
+**Tech Stack:** Next.js, NestJS, PostgreSQL, Redis
+- 🛒 Complete shopping experience
+- 💳 Payment gateway integration  
+- 📱 Responsive design
+- ⚡ Real-time notifications
+
+[![Repo](https://img.shields.io/badge/View_Code-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GREND-LEARD/ecommerce-project)
+
+</td>
+<td width="50%">
+
+### 🎯 Task Management App
+**Tech Stack:** React, Express, MongoDB, Socket.io
+- ✅ Real-time collaboration
+- 📊 Progress tracking
+- 🔔 Smart notifications
+- 🎨 Beautiful UI/UX
+
+[![Repo](https://img.shields.io/badge/View_Code-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GREND-LEARD/task-manager)
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 🎵 **CURRENTLY CODING TO**
+## 📊 **Este Mes en Números**
 
 <div align="center">
-  
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00ff41)](https://open.spotify.com/user/tu-usuario-spotify)
-  
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/☕_Coffees-127-brown?style=for-the-badge&logoColor=white"/>
+<br>
+<sub><b>Fuel para programar</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯_Commits-89-green?style=for-the-badge&logoColor=white"/>
+<br>
+<sub><b>Líneas de código</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📚_Learning-NestJS-blue?style=for-the-badge&logoColor=white"/>
+<br>
+<sub><b>Nueva tecnología</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎮_Gaming-4h-purple?style=for-the-badge&logoColor=white"/>
+<br>
+<sub><b>Tiempo de descanso</b></sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## ⚡ **FUN STATS**
+## 🌐 **Conecta Conmigo**
 
 <div align="center">
-  
-  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=dark&bgColor=%230d1117&textColor=%2300ff41&codeColor=%2300ff41)
-  
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-twitter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://tu-portfolio.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tu-discord)
+
 </div>
 
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer&animation=twinkling"/>
-</div>
+---
+
+## 🎵 **Currently Vibing To**
 
 <div align="center">
   
-  ### 💫 *"In the matrix of code, every bug is just an undiscovered feature"* 💫
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  
-  **⭐ If you like my work, give it a star! ⭐**
-  
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1a1b27&border_color=70a5fd)](https://open.spotify.com/user/tu-spotify)
+
+</div>
+
+---
+
+## 💭 **Quote del Día**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 🐍 **Contribution Snake**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GREND-LEARD&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
+</div>
+
+---
+
+<div align="center">
+
+### 💫 **"Code is like humor. When you have to explain it, it's bad."** 💫
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn"/>
+
+**🌟 ¡Gracias por visitar mi perfil! Si te gusta mi trabajo, dale una estrella ⭐**
+
+<img src="https://komarev.com/ghpvc/?username=GREND-LEARD&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile views"/>
+
 </div>
