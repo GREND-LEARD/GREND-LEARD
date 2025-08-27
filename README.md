@@ -6,7 +6,7 @@ Grend Leard - El Arte del Código Limpio
 <div align="center">
 
 <!-- ELEGANT HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=20Grend%20Leard&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=%20Grend%20Leard&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descAlignY=55&descAlign=50"/>
 
 <!-- ELEGANT TYPING EFFECT -->
 <a href="https://git.io/typing-svg">
