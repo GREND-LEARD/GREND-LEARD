@@ -6,7 +6,7 @@ David Grend Leard - Arquitecto del Futuro Digital
 <div align="center">
 
 <!-- HOLOGRAPHIC HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18&height=250&section=header&text=DAVID%20GREND%20LEARD&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=FUTURE%20ARCHITECT%20%7C%20GLASS%20DEVELOPER&descAlignY=60&descAlign=50&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18&height=250&section=header&text=%20GREND%20LEARD&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=FUTURE%20ARCHITECT%20%7C%20GLASS%20DEVELOPER&descAlignY=60&descAlign=50&fontAlign=50"/>
 
 <!-- HOLOGRAPHIC TYPING -->
 <a href="https://git.io/typing-svg">
@@ -38,7 +38,7 @@ David Grend Leard - Arquitecto del Futuro Digital
 
 ```typescript
 interface FutureArchitect {
-  readonly name: "David Grend Leard";
+  readonly name: "David";
   readonly dimension: "Digital Reality";
   readonly specialty: "Glass Architecture";
   readonly location: "🇩🇴 Metaverse DOM";
@@ -223,38 +223,57 @@ graph TD
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="33%">
 
-**🔮 Glass Frontend**
-<br>
-<img src="https://progress-bar.dev/95/?scale=100&title=React&width=150&color=61DAFB&suffix=%"/>
-<img src="https://progress-bar.dev/90/?scale=100&title=Next.js&width=150&color=000000&suffix=%"/>
-<img src="https://progress-bar.dev/88/?scale=100&title=TypeScript&width=150&color=3178C6&suffix=%"/>
-<img src="https://progress-bar.dev/85/?scale=100&title=Three.js&width=150&color=FFFFFF&suffix=%"/>
-
-</td>
-<td align="center" width="200">
-
-**✨ Crystal Backend**
-<br>
-<img src="https://progress-bar.dev/92/?scale=100&title=Node.js&width=150&color=339933&suffix=%"/>
-<img src="https://progress-bar.dev/88/?scale=100&title=NestJS&width=150&color=E0234E&suffix=%"/>
-<img src="https://progress-bar.dev/85/?scale=100&title=Python&width=150&color=3776AB&suffix=%"/>
-<img src="https://progress-bar.dev/82/?scale=100&title=GraphQL&width=150&color=E10098&suffix=%"/>
+### 🔮 **Glass Frontend**
+| Technology | Level |
+|------------|-------|
+| React ⚛️ | ████████████████████ 95% |
+| Next.js ⚡ | ██████████████████░░ 90% |
+| TypeScript 🔵 | █████████████████░░░ 88% |
+| JavaScript ⭐ | ████████████████████ 95% |
+| Tailwind CSS 🎨 | █████████████████░░░ 85% |
 
 </td>
-<td align="center" width="200">
+<td align="center" width="33%">
 
-**🌊 Data Streams**
-<br>
-<img src="https://progress-bar.dev/87/?scale=100&title=PostgreSQL&width=150&color=336791&suffix=%"/>
-<img src="https://progress-bar.dev/83/?scale=100&title=MongoDB&width=150&color=47A248&suffix=%"/>
-<img src="https://progress-bar.dev/80/?scale=100&title=Redis&width=150&color=DC382D&suffix=%"/>
-<img src="https://progress-bar.dev/78/?scale=100&title=Prisma&width=150&color=2D3748&suffix=%"/>
+### ✨ **Crystal Backend**
+| Technology | Level |
+|------------|-------|
+| Node.js 🟢 | ██████████████████░░ 92% |
+| NestJS 🔥 | █████████████████░░░ 88% |
+| Python 🐍 | █████████████████░░░ 85% |
+| Express ⚡ | ██████████████████░░ 90% |
+| GraphQL 💜 | ████████████████░░░░ 82% |
+
+</td>
+<td align="center" width="33%">
+
+### 🌊 **Data Streams**
+| Technology | Level |
+|------------|-------|
+| PostgreSQL 🐘 | █████████████████░░░ 87% |
+| MongoDB 🍃 | ████████████████░░░░ 83% |
+| Redis 🔴 | ████████████████░░░░ 80% |
+| MySQL 🗄️ | ███████████████░░░░░ 75% |
+| Prisma 💎 | ███████████████░░░░░ 78% |
 
 </td>
 </tr>
 </table>
+
+### 🚀 **Additional Skills**
+
+<div align="center">
+
+| 🛠️ **DevOps & Tools** | 🎨 **Design & UI/UX** | 🧠 **Soft Skills** |
+|----------------------|----------------------|------------------|
+| Git & GitHub ████████████████████ 95% | Figma ████████████████░░░ 80% | Problem Solving ████████████████████ 100% |
+| Docker ███████████████░░░░░ 75% | UI/UX Design ████████████████░░░ 82% | Team Collaboration ██████████████████░░ 95% |
+| AWS ██████████████░░░░░░ 70% | Responsive Design ████████████████████ 95% | Communication ██████████████████░░ 90% |
+| Linux ████████████████░░░░ 80% | Animation (CSS/JS) ███████████████░░░░░ 75% | Learning Agility ████████████████████ 100% |
+
+</div>
 
 </div>
 
