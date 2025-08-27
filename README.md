@@ -1,6 +1,6 @@
 <!--
 🎨 PLANTILLA V3 - MINIMALISTA ELEGANTE 🎨
-David Grend Leard - El Arte del Código Limpio
+Grend Leard - El Arte del Código Limpio
 -->
 
 <div align="center">
