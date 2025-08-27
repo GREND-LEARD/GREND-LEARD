@@ -40,9 +40,9 @@ interface Developer {
 }
 
 const david: Developer = {
-  name: "David Grend Leard",
+  name: "David",
   role: "Full Stack Developer",
-  location: "Dominican Republic 🇩🇴",
+  location: "Colombia",
   languages: ["JavaScript", "TypeScript", "Python", "Spanish", "English"],
   currentFocus: ["Next.js", "NestJS", "React", "PostgreSQL"],
   hobbies: ["Gaming 🎮", "Chess ♟️", "Learning new tech"],
