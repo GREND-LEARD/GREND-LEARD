@@ -41,7 +41,7 @@ interface FutureArchitect {
   readonly name: "David";
   readonly dimension: "Digital Reality";
   readonly specialty: "Glass Architecture";
-  readonly location: "🇩🇴 Metaverse DOM";
+  readonly location: "COL Metaverse COL";
   readonly vision: "Holographic";
   readonly energy: "Crystal Powered";
 }
